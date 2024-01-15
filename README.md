@@ -1,7 +1,7 @@
-# Chatgbt emailer
+# Chatgpt emailer
 
 ## Created with Uipath
-* This program generates email draft in gmail with the usage of ChatGBT and UiPath Studio.
+* This program generates email draft in gmail with the usage of ChatGPT and UiPath Studio.
 ### ![Prompt for giving description about what you want the email to be about](./Images/emailContext.JPG)
 ### ![Prompt for giving subject for the email](./Images/emailSubject.JPG)
 ### ![Prompt for the receiver](./Images/emailTo.JPG)
