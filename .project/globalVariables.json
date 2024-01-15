@@ -1,0 +1,10 @@
+[
+  {
+    "Constant": false,
+    "Name": "GlobalBrowser",
+    "TypeFullyQualifiedName": "UiPath.Core.Browser, UiPath.UiAutomation.Activities, Version=23.4.8.0, Culture=neutral, PublicKeyToken=null",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  }
+]
